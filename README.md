@@ -9,10 +9,10 @@
 
 | 분야 | 도구 | 경험 | 수준 |
 |---|---|---|---|
-| Cloud Platforms | AWS, Google Cloud | AWS(3Tier, ECS, Multi-Cloud, VPN), GCP(VPN, Cloud SQL, Multi-Cloud) | 상 |
-| IaC | Terraform | Multi-Provider 인프라 프로비저닝 | 중상 |
-| Container & OS | Kubernetes, Linux | Rocky Linux(디스크 추가, 쿼터, 서버 구성), Kubernetes(Pod 스케일링, Cluster 구성) | 중상 |
-| Networking | Cisco Packet Tracer, IOU-Web | VLAN 구성, Routing Protocol 제어, 방화벽 설정 | 상하 |
+| Cloud Platforms | AWS, Google Cloud | AWS(3Tier, ECS, Multi-Cloud, VPN), GCP(VPN, Cloud SQL, Multi-Cloud) | 중 |
+| IaC | Terraform | Multi-Provider 인프라 프로비저닝 | 중하 |
+| Container & OS | Kubernetes, Linux | Rocky Linux(디스크 추가, 쿼터, 서버 구성), Kubernetes(Pod 스케일링, Cluster 구성) | 중하 |
+| Networking | Cisco Packet Tracer, IOU-Web | VLAN 구성, Routing Protocol 제어, 방화벽 설정 | 중 |
 
 ## Projects
 
