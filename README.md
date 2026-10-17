@@ -94,6 +94,8 @@
 </table>
 
 
+**자기소개서&nbsp;**
+
 
 <table style="border-collapse: collapse;">
   <tr>
@@ -212,5 +214,4 @@
   </tr>
 </table>
 
-**자기소개서&nbsp;**
 
