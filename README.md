@@ -1,3 +1,5 @@
+<img src="images/profile.jpg" alt="한준영 프로필 사진" width="150" align="right">
+
 # 한준영 | Cloud / Infrastructure Engineer (신입)
 
 > 코드로 인프라를 다루는 클라우드 엔지니어를 목표로 합니다.
